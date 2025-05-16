@@ -1,0 +1,15 @@
+../Core/Inc/ec.h:162:1:copy_point	1
+../Core/Inc/ec.h:177:1:copy_curve	1
+../Core/Inc/ec.h:570:1:test_point_order_twof	3
+../Core/Inc/ec.h:599:1:test_basis_order_twof	1
+../Core/Inc/ec.h:618:1:test_jac_order_twof	4
+../Core/Inc/ec.h:635:1:ec_point_print	2
+../Core/Inc/ec.h:650:1:ec_curve_print	1
+../Core/Inc/hd.h:419:1:test_couple_point_order_twof	1
+../Core/Inc/theta_structure.h:31:1:hadamard	1
+../Core/Inc/theta_structure.h:59:1:pointwise_square	1
+../Core/Inc/theta_structure.h:77:1:to_squared_theta	1
+../Core/Src/theta_structure.c:5:1:theta_precomputation	2
+../Core/Src/theta_structure.c:34:1:double_point	2
+../Core/Src/theta_structure.c:59:1:double_iter	3
+../Core/Src/theta_structure.c:72:1:is_product_theta_point	1

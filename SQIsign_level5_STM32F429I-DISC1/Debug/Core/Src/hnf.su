@@ -1,0 +1,5 @@
+../Core/Src/hnf.c:6:1:sqisign_gen_ibz_mat_4x4_is_hnf	64	static
+../Core/Src/hnf.c:55:1:sqisign_gen_ibz_vec_4_linear_combination_mod	104	static
+../Core/Src/hnf.c:83:1:sqisign_gen_ibz_vec_4_copy_mod	40	static
+../Core/Src/hnf.c:96:1:sqisign_gen_ibz_vec_4_scalar_mul_mod	56	static
+../Core/Src/hnf.c:116:1:sqisign_gen_ibz_mat_4xn_hnf_mod_core	480	dynamic

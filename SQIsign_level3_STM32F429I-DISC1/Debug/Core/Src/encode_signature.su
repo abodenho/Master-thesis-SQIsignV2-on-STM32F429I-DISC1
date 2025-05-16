@@ -1,0 +1,13 @@
+../Core/Inc/ec.h:162:1:copy_point	16	static
+../Core/Inc/ec.h:177:1:copy_curve	16	static
+../Core/Inc/ec.h:570:1:test_point_order_twof	704	static
+../Core/Inc/ec.h:599:1:test_basis_order_twof	40	static
+../Core/Inc/ec.h:618:1:test_jac_order_twof	368	static
+../Core/Inc/ec.h:635:1:ec_point_print	128	static
+../Core/Inc/ec.h:650:1:ec_curve_print	128	static
+../Core/Src/encode_signature.c:15:1:encode_digits	24	static
+../Core/Src/encode_signature.c:33:1:decode_digits	24	static
+../Core/Src/encode_signature.c:48:1:ibz_to_bytes	112	dynamic
+../Core/Src/encode_signature.c:98:1:ibz_from_bytes	72	dynamic
+../Core/Src/encode_signature.c:126:1:secret_key_to_bytes	272	static
+../Core/Src/encode_signature.c:176:1:secret_key_from_bytes	112	static

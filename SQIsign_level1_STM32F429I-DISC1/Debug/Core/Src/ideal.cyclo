@@ -1,0 +1,17 @@
+../Core/Src/ideal.c:7:1:sqisign_gen_quat_lideal_norm	1
+../Core/Src/ideal.c:16:1:quat_lideal_norm_verify	1
+../Core/Src/ideal.c:29:1:sqisign_gen_quat_lideal_copy	3
+../Core/Src/ideal.c:42:1:sqisign_gen_quat_lideal_create_principal	1
+../Core/Src/ideal.c:71:1:sqisign_gen_quat_lideal_create	1
+../Core/Src/ideal.c:101:1:sqisign_gen_quat_lideal_generator	6
+../Core/Src/ideal.c:151:1:sqisign_gen_quat_lideal_mul	1
+../Core/Src/ideal.c:172:1:sqisign_gen_quat_lideal_add	1
+../Core/Src/ideal.c:182:1:sqisign_gen_quat_lideal_inter	1
+../Core/Src/ideal.c:195:1:sqisign_gen_quat_lideal_equals	1
+../Core/Src/ideal.c:204:1:sqisign_gen_quat_lideal_inverse_lattice_without_hnf	1
+../Core/Src/ideal.c:214:1:sqisign_gen_quat_lideal_right_transporter	1
+../Core/Src/ideal.c:230:1:sqisign_gen_quat_lideal_right_order	1
+../Core/Src/ideal.c:237:1:sqisign_gen_quat_lideal_class_gram	5
+../Core/Src/ideal.c:266:1:sqisign_gen_quat_lideal_conjugate_without_hnf	1
+../Core/Src/ideal.c:278:1:sqisign_gen_quat_order_discriminant	1
+../Core/Src/ideal.c:314:1:sqisign_gen_quat_order_is_maximal	1

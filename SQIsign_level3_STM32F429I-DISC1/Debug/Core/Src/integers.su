@@ -1,0 +1,2 @@
+../Core/Src/integers.c:9:1:sqisign_gen_ibz_generate_random_prime	56	static
+../Core/Src/integers.c:47:1:sqisign_gen_ibz_cornacchia_prime	88	static

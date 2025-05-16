@@ -1,0 +1,17 @@
+../Core/Inc/ec.h:162:1:copy_point	16	static
+../Core/Inc/ec.h:169:1:copy_basis	16	static
+../Core/Inc/ec.h:177:1:copy_curve	16	static
+../Core/Inc/ec.h:570:1:test_point_order_twof	896	static
+../Core/Inc/ec.h:599:1:test_basis_order_twof	40	static
+../Core/Inc/ec.h:618:1:test_jac_order_twof	464	static
+../Core/Inc/ec.h:635:1:ec_point_print	160	static
+../Core/Inc/ec.h:650:1:ec_curve_print	160	static
+../Core/Inc/hd.h:419:1:test_couple_point_order_twof	32	static
+../Core/Src/id2iso.c:14:1:ec_biscalar_mul_ibz_vec	160	static
+../Core/Src/id2iso.c:29:1:id2iso_ideal_to_kernel_dlogs_even	208	static
+../Core/Src/id2iso.c:91:1:matrix_application_even_basis	1064	static
+../Core/Src/id2iso.c:140:1:endomorphism_application_even_basis	160	static
+../Core/Src/id2iso.c:193:1:id2iso_kernel_dlogs_to_ideal_even	232	static
+../Core/Src/id2iso.c:273:1:_change_of_basis_matrix_tate	888	static
+../Core/Src/id2iso.c:329:1:change_of_basis_matrix_tate	32	static
+../Core/Src/id2iso.c:335:1:change_of_basis_matrix_tate_invert	32	static

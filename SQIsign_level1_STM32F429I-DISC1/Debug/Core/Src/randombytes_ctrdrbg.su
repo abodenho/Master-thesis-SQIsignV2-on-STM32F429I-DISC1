@@ -1,0 +1,4 @@
+../Core/Src/randombytes_ctrdrbg.c:47:20:AES256_ECB	24	static
+../Core/Src/randombytes_ctrdrbg.c:67:5:randombytes_init_nist	96	static
+../Core/Src/randombytes_ctrdrbg.c:88:5:randombytes_nist	48	static
+../Core/Src/randombytes_ctrdrbg.c:119:6:AES256_CTR_DRBG_Update	88	static

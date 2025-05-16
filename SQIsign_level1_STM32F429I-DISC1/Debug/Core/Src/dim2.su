@@ -1,0 +1,8 @@
+../Core/Src/dim2.c:6:1:sqisign_gen_ibz_vec_2_set	24	static
+../Core/Src/dim2.c:12:1:sqisign_gen_ibz_mat_2x2_set	24	static
+../Core/Src/dim2.c:21:1:sqisign_gen_ibz_mat_2x2_copy	16	static
+../Core/Src/dim2.c:30:1:sqisign_gen_ibz_mat_2x2_add	24	static
+../Core/Src/dim2.c:39:1:sqisign_gen_ibz_mat_2x2_det_from_ibz	40	static
+../Core/Src/dim2.c:50:1:sqisign_gen_ibz_mat_2x2_eval	64	static
+../Core/Src/dim2.c:73:1:sqisign_gen_ibz_2x2_mul_mod	120	static
+../Core/Src/dim2.c:103:1:sqisign_gen_ibz_mat_2x2_inv_mod	64	static

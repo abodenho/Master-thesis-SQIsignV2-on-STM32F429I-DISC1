@@ -1,0 +1,10 @@
+../Core/Inc/ec.h:162:1:copy_point	16	static
+../Core/Inc/ec.h:177:1:copy_curve	16	static
+../Core/Inc/ec.h:570:1:test_point_order_twof	464	static
+../Core/Inc/ec.h:599:1:test_basis_order_twof	40	static
+../Core/Inc/ec.h:618:1:test_jac_order_twof	248	static
+../Core/Inc/ec.h:635:1:ec_point_print	88	static
+../Core/Inc/ec.h:650:1:ec_curve_print	88	static
+../Core/Src/common.c:9:1:public_key_init	16	static
+../Core/Src/common.c:15:1:public_key_finalize	16	static
+../Core/Src/common.c:21:1:hash_to_challenge	464	static

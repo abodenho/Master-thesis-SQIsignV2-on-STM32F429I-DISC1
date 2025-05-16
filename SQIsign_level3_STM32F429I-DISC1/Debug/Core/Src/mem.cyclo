@@ -1,0 +1,2 @@
+../Core/Src/mem.c:8:1:sqisign_gen_sqisign_secure_free	2
+../Core/Src/mem.c:18:1:sqisign_gen_sqisign_secure_clear	1

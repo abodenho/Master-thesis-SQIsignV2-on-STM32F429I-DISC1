@@ -1,0 +1,2 @@
+../Core/Src/mem.c:8:1:sqisign_gen_sqisign_secure_free	16	static
+../Core/Src/mem.c:18:1:sqisign_gen_sqisign_secure_clear	16	static

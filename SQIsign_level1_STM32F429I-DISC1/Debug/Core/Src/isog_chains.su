@@ -1,0 +1,14 @@
+../Core/Inc/ec.h:162:1:copy_point	16	static
+../Core/Inc/ec.h:177:1:copy_curve	16	static
+../Core/Inc/ec.h:215:1:AC_to_A24	16	static
+../Core/Inc/ec.h:236:1:A24_to_AC	16	static
+../Core/Inc/ec.h:570:1:test_point_order_twof	464	static
+../Core/Inc/ec.h:599:1:test_basis_order_twof	40	static
+../Core/Inc/ec.h:618:1:test_jac_order_twof	248	static
+../Core/Inc/ec.h:635:1:ec_point_print	88	static
+../Core/Inc/ec.h:650:1:ec_curve_print	88	static
+../Core/Src/isog_chains.c:6:1:ec_eval_even_strategy	984	dynamic
+../Core/Src/isog_chains.c:121:1:ec_eval_even	32	static
+../Core/Src/isog_chains.c:129:1:ec_eval_small_chain	904	static
+../Core/Src/isog_chains.c:177:1:ec_isomorphism	392	static
+../Core/Src/isog_chains.c:234:1:ec_iso_eval	88	static

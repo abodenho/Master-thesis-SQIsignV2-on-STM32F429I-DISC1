@@ -1,0 +1,8 @@
+../Core/Inc/bench_test_arguments.h:9:12:parse_seed	3
+../Core/Inc/bench_test_arguments.h:24:13:print_seed	3
+../Core/Src/example_nistapi.c:32:7:reset_cycle_counter	1
+../Core/Src/example_nistapi.c:39:11:get_cycle_count	1
+../Core/Src/example_nistapi.c:43:7:paint_stack	2
+../Core/Src/example_nistapi.c:53:11:measure_stack_usage	3
+../Core/Src/example_nistapi.c:68:17:rand_u32	1
+../Core/Src/example_nistapi.c:87:5:example_sqisign	1

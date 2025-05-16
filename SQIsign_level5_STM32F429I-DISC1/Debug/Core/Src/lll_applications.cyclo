@@ -1,0 +1,3 @@
+../Core/Src/lll_applications.c:6:1:sqisign_gen_quat_lideal_reduce_basis	3
+../Core/Src/lll_applications.c:29:1:sqisign_gen_quat_lideal_lideal_mul_reduced	1
+../Core/Src/lll_applications.c:48:1:sqisign_gen_quat_lideal_prime_norm_reduced_equivalent	4

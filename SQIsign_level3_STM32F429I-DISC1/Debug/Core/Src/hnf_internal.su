@@ -1,0 +1,4 @@
+../Core/Src/hnf_internal.c:6:1:sqisign_gen_ibz_mod_not_zero	48	static
+../Core/Src/hnf_internal.c:21:1:sqisign_gen_ibz_centered_mod	64	static
+../Core/Src/hnf_internal.c:40:1:sqisign_gen_ibz_conditional_assign	64	static
+../Core/Src/hnf_internal.c:58:1:sqisign_gen_ibz_xgcd_with_u_not_0	144	static

@@ -1,0 +1,16 @@
+../Core/Inc/ec.h:162:1:copy_point	1
+../Core/Inc/ec.h:169:1:copy_basis	1
+../Core/Inc/ec.h:177:1:copy_curve	1
+../Core/Inc/ec.h:570:1:test_point_order_twof	3
+../Core/Inc/ec.h:599:1:test_basis_order_twof	1
+../Core/Inc/ec.h:618:1:test_jac_order_twof	4
+../Core/Inc/ec.h:635:1:ec_point_print	2
+../Core/Inc/ec.h:650:1:ec_curve_print	1
+../Core/Inc/hd.h:419:1:test_couple_point_order_twof	1
+../Core/Src/verify.c:10:1:check_canonical_basis_change_matrix	4
+../Core/Src/verify.c:35:1:compute_challenge_verify	4
+../Core/Src/verify.c:72:1:matrix_scalar_application_even_basis	3
+../Core/Src/verify.c:101:1:challenge_and_aux_basis_verify	4
+../Core/Src/verify.c:141:1:two_response_isogeny_verify	8
+../Core/Src/verify.c:186:1:compute_commitment_curve_verify	5
+../Core/Src/verify.c:243:1:protocols_verify	12

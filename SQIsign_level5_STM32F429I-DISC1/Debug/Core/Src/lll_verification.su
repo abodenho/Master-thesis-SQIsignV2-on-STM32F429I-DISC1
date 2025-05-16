@@ -1,0 +1,5 @@
+../Core/Src/lll_verification.c:5:1:sqisign_gen_quat_lll_set_ibq_parameters	40	static
+../Core/Src/lll_verification.c:23:1:sqisign_gen_ibq_vec_4_copy_ibz	40	static
+../Core/Src/lll_verification.c:36:1:sqisign_gen_quat_lll_bilinear	112	static
+../Core/Src/lll_verification.c:64:1:sqisign_gen_quat_lll_gram_schmidt_transposed_with_ibq	648	static
+../Core/Src/lll_verification.c:111:1:sqisign_gen_quat_lll_verify	728	static

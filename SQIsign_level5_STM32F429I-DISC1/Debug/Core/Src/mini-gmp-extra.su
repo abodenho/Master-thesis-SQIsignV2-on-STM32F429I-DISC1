@@ -1,0 +1,4 @@
+../Core/Src/mini-gmp-extra.c:16:1:mini_mpz_legendre	32	static
+../Core/Src/mini-gmp-extra.c:36:1:mpz_legendre	16	static
+../Core/Src/mini-gmp-extra.c:44:1:mini_mpz_get_d_2exp	40	static
+../Core/Src/mini-gmp-extra.c:72:1:mpz_get_d_2exp	16	static

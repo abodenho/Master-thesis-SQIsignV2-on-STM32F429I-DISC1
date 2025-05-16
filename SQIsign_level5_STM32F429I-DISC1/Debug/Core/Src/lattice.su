@@ -1,0 +1,14 @@
+../Core/Src/lattice.c:7:1:sqisign_gen_quat_lattice_equal	432	static
+../Core/Src/lattice.c:28:1:sqisign_gen_quat_lattice_inclusion	224	static
+../Core/Src/lattice.c:40:1:sqisign_gen_quat_lattice_reduce_denom	32	static
+../Core/Src/lattice.c:53:1:sqisign_gen_quat_lattice_conjugate_without_hnf	24	static
+../Core/Src/lattice.c:68:1:sqisign_gen_quat_lattice_dual_without_hnf	224	static
+../Core/Src/lattice.c:85:1:sqisign_gen_quat_lattice_add	672	static
+../Core/Src/lattice.c:127:1:sqisign_gen_quat_lattice_intersect	640	static
+../Core/Src/lattice.c:145:1:sqisign_gen_quat_lattice_mat_alg_coord_mul_without_hnf	144	static
+../Core/Src/lattice.c:166:1:sqisign_gen_quat_lattice_alg_elem_mul	24	static
+../Core/Src/lattice.c:177:1:sqisign_gen_quat_lattice_mul	1392	static
+../Core/Src/lattice.c:223:1:sqisign_gen_quat_lattice_contains	296	static
+../Core/Src/lattice.c:253:1:sqisign_gen_quat_lattice_index	48	static
+../Core/Src/lattice.c:284:1:sqisign_gen_quat_lattice_hnf	240	static
+../Core/Src/lattice.c:306:1:sqisign_gen_quat_lattice_gram	56	static

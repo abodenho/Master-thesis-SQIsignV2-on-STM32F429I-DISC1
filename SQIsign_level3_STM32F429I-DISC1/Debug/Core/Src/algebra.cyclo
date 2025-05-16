@@ -1,0 +1,17 @@
+../Core/Src/algebra.c:7:1:sqisign_gen_quat_alg_init_set_ui	1
+../Core/Src/algebra.c:17:1:sqisign_gen_quat_alg_coord_mul	1
+../Core/Src/algebra.c:78:1:sqisign_gen_quat_alg_equal_denom	2
+../Core/Src/algebra.c:104:1:sqisign_gen_quat_alg_add	1
+../Core/Src/algebra.c:119:1:sqisign_gen_quat_alg_sub	1
+../Core/Src/algebra.c:134:1:sqisign_gen_quat_alg_mul	1
+../Core/Src/algebra.c:142:1:sqisign_gen_quat_alg_norm	1
+../Core/Src/algebra.c:165:1:sqisign_gen_quat_alg_scalar	1
+../Core/Src/algebra.c:175:1:sqisign_gen_quat_alg_conj	1
+../Core/Src/algebra.c:185:1:sqisign_gen_quat_alg_make_primitive	2
+../Core/Src/algebra.c:199:1:sqisign_gen_quat_alg_normalize	2
+../Core/Src/algebra.c:218:1:sqisign_gen_quat_alg_elem_equal	1
+../Core/Src/algebra.c:229:1:sqisign_gen_quat_alg_elem_is_zero	1
+../Core/Src/algebra.c:236:1:sqisign_gen_quat_alg_elem_set	1
+../Core/Src/algebra.c:247:1:sqisign_gen_quat_alg_elem_copy	1
+../Core/Src/algebra.c:258:1:sqisign_gen_quat_alg_elem_copy_ibz	1
+../Core/Src/algebra.c:274:1:sqisign_gen_quat_alg_elem_mul_by_scalar	2

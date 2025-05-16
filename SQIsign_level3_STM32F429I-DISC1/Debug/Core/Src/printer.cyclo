@@ -1,0 +1,8 @@
+../Core/Src/printer.c:5:1:sqisign_gen_ibz_mat_2x2_print	3
+../Core/Src/printer.c:19:1:sqisign_gen_ibz_mat_4x4_print	3
+../Core/Src/printer.c:33:1:sqisign_gen_ibz_vec_2_print	2
+../Core/Src/printer.c:44:1:sqisign_gen_ibz_vec_4_print	2
+../Core/Src/printer.c:55:1:sqisign_gen_quat_lattice_print	3
+../Core/Src/printer.c:73:1:sqisign_gen_quat_alg_print	1
+../Core/Src/printer.c:81:1:sqisign_gen_quat_alg_elem_print	2
+../Core/Src/printer.c:95:1:sqisign_gen_quat_left_ideal_print	7

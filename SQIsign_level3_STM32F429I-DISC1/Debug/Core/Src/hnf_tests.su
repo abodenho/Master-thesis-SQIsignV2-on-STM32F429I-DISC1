@@ -1,0 +1,14 @@
+../Core/Src/hnf_tests.c:10:1:ibz_rounded_div	72	static
+../Core/Src/hnf_tests.c:37:1:ibz_mat_4xn_hnf_core	264	dynamic
+../Core/Src/hnf_tests.c:134:1:quat_test_ibz_mod_not_zero	72	static
+../Core/Src/hnf_tests.c:170:1:quat_test_ibz_centered_mod	80	static
+../Core/Src/hnf_tests.c:208:1:quat_test_ibz_conditional_assign	48	static
+../Core/Src/hnf_tests.c:239:1:quat_test_helper_ibz_xgcd_with_u_not_0	80	static
+../Core/Src/hnf_tests.c:306:1:quat_test_ibz_xgcd_with_u_not_0	120	static
+../Core/Src/hnf_tests.c:389:1:quat_test_ibz_rounded_div	48	static
+../Core/Src/hnf_tests.c:523:1:quat_test_ibz_mat_4x4_is_hnf	216	static
+../Core/Src/hnf_tests.c:620:1:quat_test_ibz_mat_4xn_hnf_core	832	static
+../Core/Src/hnf_tests.c:736:1:quat_test_ibz_mat_4xn_hnf_mod_core	832	static
+../Core/Src/hnf_tests.c:871:1:quat_test_ibz_mat_4xn_hnf_core_randomized	1208	static
+../Core/Src/hnf_tests.c:934:1:quat_test_ibz_mat_4xn_hnf_mod_core_randomized	1224	static
+../Core/Src/hnf_tests.c:1004:1:quat_test_hnf	16	static

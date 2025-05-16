@@ -1,0 +1,11 @@
+../Core/Inc/ec.h:162:1:copy_point	16	static
+../Core/Inc/ec.h:177:1:copy_curve	16	static
+../Core/Inc/ec.h:570:1:test_point_order_twof	464	static
+../Core/Inc/ec.h:599:1:test_basis_order_twof	40	static
+../Core/Inc/ec.h:618:1:test_jac_order_twof	248	static
+../Core/Inc/ec.h:635:1:ec_point_print	88	static
+../Core/Inc/ec.h:650:1:ec_curve_print	88	static
+../Core/Src/sqisign.c:12:1:sqisign_keypair	1312	static
+../Core/Src/sqisign.c:29:1:sqisign_sign	1584	static
+../Core/Src/sqisign.c:61:1:sqisign_open	576	static
+../Core/Src/sqisign.c:89:1:sqisign_verify	568	static

@@ -1,0 +1,16 @@
+../Core/Src/finit.c:4:1:sqisign_gen_quat_alg_init_set	16	static
+../Core/Src/finit.c:10:1:sqisign_gen_quat_alg_finalize	16	static
+../Core/Src/finit.c:16:1:sqisign_gen_quat_alg_elem_init	16	static
+../Core/Src/finit.c:23:1:sqisign_gen_quat_alg_elem_finalize	16	static
+../Core/Src/finit.c:30:1:sqisign_gen_ibz_vec_2_init	16	static
+../Core/Src/finit.c:37:1:sqisign_gen_ibz_vec_2_finalize	16	static
+../Core/Src/finit.c:44:1:sqisign_gen_ibz_vec_4_init	24	static
+../Core/Src/finit.c:51:1:sqisign_gen_ibz_vec_4_finalize	24	static
+../Core/Src/finit.c:59:1:sqisign_gen_ibz_mat_2x2_init	24	static
+../Core/Src/finit.c:68:1:sqisign_gen_ibz_mat_2x2_finalize	24	static
+../Core/Src/finit.c:78:1:sqisign_gen_ibz_mat_4x4_init	24	static
+../Core/Src/finit.c:87:1:sqisign_gen_ibz_mat_4x4_finalize	24	static
+../Core/Src/finit.c:97:1:sqisign_gen_quat_lattice_init	16	static
+../Core/Src/finit.c:104:1:sqisign_gen_quat_lattice_finalize	16	static
+../Core/Src/finit.c:111:1:sqisign_gen_quat_left_ideal_init	16	static
+../Core/Src/finit.c:118:1:sqisign_gen_quat_left_ideal_finalize	16	static

@@ -1,0 +1,9 @@
+../Core/Src/tools.c:20:9:tic	1
+../Core/Src/tools.c:26:7:tac	1
+../Core/Src/tools.c:32:7:TAC	1
+../Core/Src/tools.c:41:7:toc	1
+../Core/Src/tools.c:47:7:TOC	1
+../Core/Src/tools.c:54:7:TOC_clock	1
+../Core/Src/tools.c:60:9:dclock	1
+../Core/Src/tools.c:65:7:clock_to_time	1
+../Core/Src/tools.c:72:7:clock_print	1

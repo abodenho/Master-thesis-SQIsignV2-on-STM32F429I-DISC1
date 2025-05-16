@@ -1,0 +1,4 @@
+../Core/Src/randombytes_system.c:394:1:randombytes_stm32_m4	5
+../Core/Src/randombytes_system.c:410:1:randombytes_select	1
+../Core/Src/randombytes_system.c:444:1:randombytes	1
+../Core/Src/randombytes_system.c:456:1:randombytes_init	1

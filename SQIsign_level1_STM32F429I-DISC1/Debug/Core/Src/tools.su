@@ -1,0 +1,9 @@
+../Core/Src/tools.c:20:9:tic	8	static
+../Core/Src/tools.c:26:7:tac	16	static
+../Core/Src/tools.c:32:7:TAC	24	static
+../Core/Src/tools.c:41:7:toc	24	static
+../Core/Src/tools.c:47:7:TOC	24	static
+../Core/Src/tools.c:54:7:TOC_clock	16	static
+../Core/Src/tools.c:60:9:dclock	16	static
+../Core/Src/tools.c:65:7:clock_to_time	24	static
+../Core/Src/tools.c:72:7:clock_print	16	static
