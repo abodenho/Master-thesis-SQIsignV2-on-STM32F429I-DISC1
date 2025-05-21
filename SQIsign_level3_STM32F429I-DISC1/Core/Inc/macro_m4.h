@@ -8,7 +8,7 @@
 #define RANDOMBYTES_SYSTEM
 #define ENABLE_SIGN
 
-// #define NDEBUG
+#define NDEBUG
 // #define DEBUG_VERBOSE
 // #define MINI_GMP_DONT_USE_FLOAT_H 
 
